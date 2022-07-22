@@ -1,5 +1,17 @@
+import AndromedaLogo from '../extensions/andromeda.png'
+import AndromedaFavicon from '../extensions/andromedafavicon.png'
+
 export default {
   config: {
+    auth: {
+      logo: AndromedaLogo
+    },
+    menu: {
+      logo: AndromedaLogo
+    },
+    head: {
+      favicon: AndromedaFavicon
+    },
     locales: [
       // 'ar',
       // 'fr',
