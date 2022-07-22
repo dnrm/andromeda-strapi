@@ -1,5 +1,5 @@
 import AndromedaLogo from '../extensions/andromeda.png'
-import AndromedaFavicon from '../extensions/andromedafavicon.png'
+import AndromedaFavicon from '../extensions/andromedafavicon.ico'
 
 export default {
   config: {
