@@ -1,0 +1,21 @@
+{
+  "kind": "collectionType",
+  "collectionName": "coffees",
+  "info": {
+    "singularName": "coffee",
+    "pluralName": "coffees",
+    "displayName": "Coffee"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "priceIncrease": {
+      "type": "integer"
+    }
+  }
+}
